@@ -1,0 +1,17 @@
+1) Try making the snake  game
+
+2) Make slide bar for morphology of images wrt to the size of kernel
+	i) one track bar for size of kernel
+	ii)one for type of kernel
+	iii)one for type of morphological transformation
+3) difference between 2 5x5 smoothing and one 9x9 smoothing
+
+4)Affine transformation demo from youtube , select and change the shots
+
+5) Rock Paper Scissor using opencv
+
+6)Try chapter 7 questions they are awesome
+7)Check out the git hub site 
+https://github.com/Itseez/opencv/blob/master/samples/cpp/tutorial_code/Histograms_Matching/calcBackProject_Demo2.cpp
+
+8)Show it like someone is making a picture of a person in real time. With a brush (pixel one by one )
